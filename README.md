@@ -1,16 +1,10 @@
-## 💯 Hi 💯 Thank you for your visiting my profile.
-<span style="font-size: 10rem"><b>[ React.JS - Redux / Next.js / Vue.js / Angular / TypeScript / Node.js / Express ]</b></span>
-
-As a senior web and App developer, I have rich experience & history for 4 years over in development department.
-
+##❤️Thank you for your visiting my profile.❤️
+<h3>Professional full stack web developer</h3>
+<p>I am a passionate web developer who has been programming since grade school.
+Having completed a bachelor's degree in computer science, I spent several years working for personal company, mostly developing web applications.
+I am available to work full-time and to change my time zone to reach client goals. As well as this, I will maintain client trust.
+It is not easy to maintain trust with clients to everyone, but I will try my best to maintain the relationship.</p>
 <br>
-
-<h3>I will do my best for all the person who have great IDEA.</h3>
-
-<br>
-
-<img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif" width="25" height="25"/> BlockChain | Front-End | Back-End | WEB | Mobile | API | BOT |Web Scraping
-
 ## Used Skills
 <table align="center">
   <tr>
@@ -171,12 +165,14 @@ As a senior web and App developer, I have rich experience & history for 4 years 
 </table>
 <br>
 
-## Core skills
+## My abilaties:
+-photoshope, figma, xd
+-html, css, js, tailwind css, bootstrap, jquery, materialize CSS,
+React.js and frameworks(Next.js), Vue.js and Frameworks(vuetify), ,
+angular.js, wordpress
+-php, mysql, laravel, node.js, mongodb, python,
 
-✔ <b>Front-end</b> : React js - Redux / Next.js / TypeScript / Vue.js /Angular / Bootstrap / React Native  <br>
-✔ <b>Back-end</b> : Node.js / Express / Django / Laravel /CodeIgniter <br>
-✔ <b>Database</b> : Mysql / MongoDB / SQlite <br>
-✔ <b>Programming-languages</b> : JavaScript / HTML / CSS / PHP / Python <br>
+Get your success with me. Looking forward to working with you!
 <br>
 <p align = "center">
   
