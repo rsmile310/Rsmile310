@@ -4,11 +4,6 @@ Having completed a bachelor's degree in computer science, I spent several years 
 I am available to work full-time and to change my time zone to reach client goals. As well as this, I will maintain client trust.
 It is not easy to maintain trust with clients to everyone, but I will try my best to maintain the relationship.</p>
 <br>
-
-<h3>I will do my best for all the person who have great IDEA.</h3>
-
-<br>
-
 ## Used Skills
 <table align="center">
   <tr>
