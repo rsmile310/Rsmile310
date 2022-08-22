@@ -1,8 +1,8 @@
 ## Thank you for your visiting my profile.
-<span style="font-size: 10rem"><b>[ React.JS - Redux / Next.js / Vue.js / Angular / TypeScript / Node.js / Express ]</b></span>
-
-As a senior web and App developer, I have rich experience & history for 4 years over in development department.
-
+<p>I am a passionate web developer who has been programming since grade school.
+Having completed a bachelor's degree in computer science, I spent several years working for personal company, mostly developing web applications.
+I am available to work full-time and to change my time zone to reach client goals. As well as this, I will maintain client trust.
+It is not easy to maintain trust with clients to everyone, but I will try my best to maintain the relationship.</p>
 <br>
 
 <h3>I will do my best for all the person who have great IDEA.</h3>
