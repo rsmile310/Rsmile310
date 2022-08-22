@@ -1,4 +1,4 @@
-## 💯 Hi 💯 Thank you for your visiting my profile.
+## Thank you for your visiting my profile.
 <span style="font-size: 10rem"><b>[ React.JS - Redux / Next.js / Vue.js / Angular / TypeScript / Node.js / Express ]</b></span>
 
 As a senior web and App developer, I have rich experience & history for 4 years over in development department.
