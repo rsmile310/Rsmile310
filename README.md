@@ -9,8 +9,6 @@ As a senior web and App developer, I have rich experience & history for 4 years 
 
 <br>
 
-<img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif" width="25" height="25"/> BlockChain | Front-End | Back-End | WEB | Mobile | API | BOT |Web Scraping
-
 ## Used Skills
 <table align="center">
   <tr>
@@ -173,10 +171,10 @@ As a senior web and App developer, I have rich experience & history for 4 years 
 
 ## Core skills
 
-✔ <b>Front-end</b> : React js - Redux / Next.js / TypeScript / Vue.js /Angular / Bootstrap / React Native  <br>
-✔ <b>Back-end</b> : Node.js / Express / Django / Laravel /CodeIgniter <br>
-✔ <b>Database</b> : Mysql / MongoDB / SQlite <br>
-✔ <b>Programming-languages</b> : JavaScript / HTML / CSS / PHP / Python <br>
+-photoshope, figma, xd<br>
+-html, css, js, tailwind css, bootstrap, jquery, materialize CSS,<br>
+React.js and frameworks(Next.js), Vue.js and Frameworks(vuetify),angular.js, wordpress<br>
+-php, mysql, laravel, node.js, mongodb, python<br>
 <br>
 <p align = "center">
   
