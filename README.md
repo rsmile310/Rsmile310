@@ -1,4 +1,4 @@
-##❤️Thank you for your visiting my profile.❤️
+❤️Thank you for your visiting my profile.❤️
 <h3>Professional full stack web developer</h3>
 <p>I am a passionate web developer who has been programming since grade school.
 Having completed a bachelor's degree in computer science, I spent several years working for personal company, mostly developing web applications.
@@ -165,7 +165,7 @@ It is not easy to maintain trust with clients to everyone, but I will try my bes
 </table>
 <br>
 
-## My abilaties:
+My abilaties:
 -photoshope, figma, xd
 -html, css, js, tailwind css, bootstrap, jquery, materialize CSS,
 React.js and frameworks(Next.js), Vue.js and Frameworks(vuetify), ,
