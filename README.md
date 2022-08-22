@@ -170,12 +170,15 @@ As a senior web and App developer, I have rich experience & history for 4 years 
 <br>
 
 ## Core skills
-
 -photoshope, figma, xd<br>
 -html, css, js, tailwind css, bootstrap, jquery, materialize CSS,<br>
 React.js and frameworks(Next.js), Vue.js and Frameworks(vuetify),angular.js, wordpress<br>
 -php, mysql, laravel, node.js, mongodb, python<br>
 <br>
+## Get in touch
+skype: live:.cid.c62960629e6cf003 <br/>
+telegram: https://t.me/Smart310
+
 <p align = "center">
   
 </p>
