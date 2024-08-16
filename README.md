@@ -165,7 +165,7 @@ It is not easy to maintain trust with clients to everyone, but I will try my bes
 <br>
 
 ## Core skills
--photoshope, figma, xd<br>
+-photoshop, figma, xd<br>
 -html, css, js, tailwind css, bootstrap, jquery, materialize CSS,<br>
 React.js and frameworks(Next.js), Vue.js and Frameworks(vuetify),angular.js, wordpress<br>
 -php, mysql, laravel, node.js, mongodb, python<br>
